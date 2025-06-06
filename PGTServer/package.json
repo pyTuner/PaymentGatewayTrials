@@ -1,0 +1,28 @@
+{
+  "name": "pgtserver",
+  "version": "1.0.0",
+  "description": "project built to understand the payment gateway integration. Paytmen payment gateway will be use for the same",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pyTuner/PaymentGatewayTrials.git"
+  },
+  "keywords": [
+    "paytm",
+    "payment",
+    "gateway",
+    "react",
+    "native"
+  ],
+  "author": "tejas",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
